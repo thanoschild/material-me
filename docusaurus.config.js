@@ -90,7 +90,7 @@ const config = {
           {
             to: 'docs/category/google-cloud-platform',
             position: 'left',
-            label: 'GCP',
+            label: 'GCP Docs',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
